@@ -3,7 +3,7 @@ export default function Hero() {
     <section style={{ padding: '8rem 0 6rem', textAlign: 'center' }}>
       <div className="container">
         <div style={{ marginBottom: '2rem' }}>
-          <span style={{ display: 'inline-block', background: 'linear-gradient(135deg, rgba(246, 211, 101, 0.1), rgba(246, 211, 101, 0.05))', color: 'var(--accent-gold)', padding: '0.5rem 1.5rem', borderRadius: '2rem', fontSize: '0.9rem', fontWeight: 700, marginBottom: '0.75rem', border: '1px solid rgba(246, 211, 101, 0.2)', boxShadow: '0 0 20px rgba(246, 211, 101, 0.1)' }}>
+          <span style={{ display: 'inline-block', background: 'linear-gradient(135deg, rgba(217, 119, 6, 0.1), rgba(217, 119, 6, 0.05))', color: 'var(--accent-gold)', padding: '0.5rem 1.5rem', borderRadius: '2rem', fontSize: '0.9rem', fontWeight: 700, marginBottom: '0.75rem', border: '1px solid rgba(217, 119, 6, 0.2)', boxShadow: '0 0 20px rgba(217, 119, 6, 0.1)' }}>
             ✨ Projet Fin de Module : Développement web et mobile 2
           </span>
           <p style={{ color: 'var(--text-secondary)', fontSize: '1rem', margin: 0, fontWeight: 500 }}>
