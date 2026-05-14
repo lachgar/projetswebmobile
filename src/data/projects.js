@@ -30,7 +30,7 @@ export const projects = [
     description: "Plateforme de suivi de livraison locale en temps réel avec géolocalisation et notifications pour les commerces de proximité.",
     videoUrl: "https://www.youtube.com/embed/zURXr089cqk",
     youtubeLink: "https://youtu.be/zURXr089cqk?si=t-ng0woO4A6csVoQ",
-    portfolioLink: null,
+    portfolioLink: "https://portfolio-one-psi-xf3dh3b0wb.vercel.app/",
     tags: ["React", "Géolocalisation", "Livraison"]
   },
   {
