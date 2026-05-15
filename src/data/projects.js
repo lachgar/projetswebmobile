@@ -1,15 +1,14 @@
 export const projects = [
-
   {
-    id: 3,
-    num: 3,
-    title: "Gestion de Parking (Campus)",
-    studentName: "Aya Ait El Harch",
-    description: "Application de gestion intelligente du parking universitaire avec suivi en temps réel des places disponibles.",
-    videoUrl: "https://www.youtube.com/embed/NPNYbNdgON4",
-    youtubeLink: "https://youtu.be/NPNYbNdgON4",
-    portfolioLink: "https://aya-ait-el-harch.vercel.app/",
-    tags: ["React", "IoT", "Campus"]
+    id: 7,
+    num: 13,
+    title: "Application SOS / Urgence campus",
+    studentName: "Soukaina Imaghri",
+    description: "Application d'urgence campus permettant d'alerter rapidement les services de sécurité en cas de situation critique.",
+    videoUrl: "https://www.youtube.com/embed/jipOec8YqwA",
+    youtubeLink: "https://youtu.be/jipOec8YqwA?si=TxB8TrKBHtdZpZZJ",
+    portfolioLink: "https://portfolio-643n.vercel.app/",
+    tags: ["React", "Urgence", "Sécurité"]
   },
   {
     id: 2,
@@ -56,6 +55,17 @@ export const projects = [
     tags: ["React", "Transport", "Campus"]
   },
   {
+    id: 3,
+    num: 3,
+    title: "Gestion de Parking (Campus)",
+    studentName: "Aya Ait El Harch",
+    description: "Application de gestion intelligente du parking universitaire avec suivi en temps réel des places disponibles.",
+    videoUrl: "https://www.youtube.com/embed/NPNYbNdgON4",
+    youtubeLink: "https://youtu.be/NPNYbNdgON4",
+    portfolioLink: "https://aya-ait-el-harch.vercel.app/",
+    tags: ["React", "IoT", "Campus"]
+  },
+  {
     id: 1,
     num: 1,
     title: "Covoiturage universitaire (mini version)",
@@ -65,16 +75,6 @@ export const projects = [
     youtubeLink: "https://youtu.be/1y1Dl8bTuSo",
     portfolioLink: "https://portfolio-abouame.vercel.app/",
     tags: ["React", "Mobile", "Transport"]
-  }, {
-    id: 7,
-    num: 13,
-    title: "Application SOS / Urgence campus",
-    studentName: "Soukaina Imaghri",
-    description: "Application d'urgence campus permettant d'alerter rapidement les services de sécurité en cas de situation critique.",
-    videoUrl: "https://www.youtube.com/embed/jipOec8YqwA",
-    youtubeLink: "https://youtu.be/jipOec8YqwA?si=TxB8TrKBHtdZpZZJ",
-    portfolioLink: "https://portfolio-643n.vercel.app/",
-    tags: ["React", "Urgence", "Sécurité"]
   },
   {
     id: 8,
