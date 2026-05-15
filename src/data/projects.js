@@ -40,7 +40,7 @@ export const projects = [
     description: "Application de suivi et gestion des dépenses personnelles avec tableaux de bord analytiques et catégorisation automatique.",
     videoUrl: "https://www.youtube.com/embed/rBS-SVyi05g",
     youtubeLink: "https://youtu.be/rBS-SVyi05g",
-    portfolioLink: "https://projetfinal-react-ojt24vlq2-hafssachk846-4433s-projects.vercel.app/",
+    portfolioLink: "https://projetfinal-react-4koe38r25-hafssachk846-4433s-projects.vercel.app/",
     tags: ["React", "Finance", "Dashboard"]
   },
   {
