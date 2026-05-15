@@ -159,8 +159,8 @@ export const projects = [
     title: "Gestion de visiteurs sur campus",
     studentName: "Nouhayla Sabiq",
     description: "Système numérique de gestion et d'accueil des visiteurs sur campus avec badge virtuel et suivi des accès.",
-    videoUrl: "https://www.youtube.com/embed/6grt-Q5Wjmg",
-    youtubeLink: "https://youtu.be/6grt-Q5Wjmg?feature=shared",
+    videoUrl: "https://www.youtube.com/embed/_M3kesdQUzI",
+    youtubeLink: "https://youtu.be/_M3kesdQUzI?si=M1i6UtGPLM1r6n2y",
     portfolioLink: "https://project-react-portfolio-xi.vercel.app/",
     tags: ["React", "Sécurité", "Campus"]
   },
