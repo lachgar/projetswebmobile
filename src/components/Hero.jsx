@@ -17,19 +17,19 @@ export default function Hero() {
           <a href="#projects" className="btn btn-primary" style={{ fontSize: '1.1rem', padding: '0.8rem 2rem' }}>Voir les Projets</a>
           <a href="#contact" className="btn btn-ghost" style={{ fontSize: '1.1rem', padding: '0.8rem 2rem' }}>Nous Contacter</a>
         </div>
-        
+
         <div style={{ marginTop: '4rem', display: 'flex', justifyContent: 'center' }}>
-          <img 
-            src="/class-photo.jpg" 
-            alt="ENS Class Photo" 
-            style={{ 
-              width: '100%', 
-              maxWidth: '900px', 
-              borderRadius: '1rem', 
-              boxShadow: '0 20px 40px rgba(0,0,0,0.4)', 
+          <img
+            src="/class-photo1.jpg"
+            alt="ENS Class Photo"
+            style={{
+              width: '100%',
+              maxWidth: '900px',
+              borderRadius: '1rem',
+              boxShadow: '0 20px 40px rgba(0,0,0,0.4)',
               border: '1px solid var(--card-border)',
               transition: 'transform 0.3s ease'
-            }} 
+            }}
             onMouseOver={e => e.currentTarget.style.transform = 'scale(1.02)'}
             onMouseOut={e => e.currentTarget.style.transform = 'scale(1)'}
           />
